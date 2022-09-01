@@ -1,0 +1,15 @@
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\bin\Debug\net6.0\IncupsulationHw.exe
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\bin\Debug\net6.0\IncupsulationHw.deps.json
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\bin\Debug\net6.0\IncupsulationHw.runtimeconfig.json
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\bin\Debug\net6.0\IncupsulationHw.dll
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\bin\Debug\net6.0\IncupsulationHw.pdb
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\obj\Debug\net6.0\IncupsulationHw.csproj.AssemblyReference.cache
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\obj\Debug\net6.0\IncupsulationHw.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\obj\Debug\net6.0\IncupsulationHw.AssemblyInfoInputs.cache
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\obj\Debug\net6.0\IncupsulationHw.AssemblyInfo.cs
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\obj\Debug\net6.0\IncupsulationHw.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\obj\Debug\net6.0\IncupsulationHw.dll
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\obj\Debug\net6.0\refint\IncupsulationHw.dll
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\obj\Debug\net6.0\IncupsulationHw.pdb
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\obj\Debug\net6.0\IncupsulationHw.genruntimeconfig.cache
+C:\BettrootCourses\lesson11\HomeWork\IncupsulationHw\obj\Debug\net6.0\ref\IncupsulationHw.dll

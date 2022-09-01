@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using IncupsulationHw;
+using IncupsulationHw.Generators;
+
+class Program
+{
+    static void Main()
+    {
+        School washingtonSchool = new School(5, 4);
+        washingtonSchool.PrintShedule();
+        washingtonSchool.ShowClass();
+    }
+
+}
+
